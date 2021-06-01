@@ -44,7 +44,7 @@ tabulate==0.8.2
 Twisted==18.7.0
 txaio==18.8.1
 tzlocal==1.5.1
-urllib3==1.23
+urllib3==1.26.5
 wrapt==1.10.11
 yaspin==0.14.0
 zope.interface==4.5.0
